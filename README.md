@@ -1,18 +1,17 @@
 # **🚌 Red Bus Website UI Clone**
 
-This project is a pixel-perfect clone of the Red Bus homepage, created to mimic its design and layout using **HTML** and **CSS**. It serves as a learning tool for front-end development enthusiasts to sharpen their web design skills by replicating a real-world website interface.
+This project is a pixel-perfect clone of the Red Bus homepage, created to replicate its design and layout using **HTML** and **CSS**. It serves as a learning tool for front-end development enthusiasts to sharpen their web design skills by replicating a real-world website interface.
 
 ## 🌐 Live Demo
 
-Experience the live version of the Red Bus UI clone here ➡️ [Red Bus UI Clone](https://red-bus-ui.vercel.app/)
+Experience the live version of the Red Bus UI clone [here](https://red-bus-ui.vercel.app/)
 
 ## 📋 Overview
 
-This project focuses on recreating the Red Bus website’s **homepage UI** to improve understanding of layout structuring, responsive design, and basic styling techniques. This clone does not include backend functionality but is ideal for practicing front-end development.
+This project focuses on recreating the Red Bus website’s **homepage UI** to improve understanding of layout structuring and basic styling techniques. This clone does not include backend functionality and is not fully responsive but is ideal for practicing front-end development.
 
 ## ✨ Key Features
 
-- **Responsive Design:** The clone adapts to different screen sizes, including desktop and mobile devices.
 - **Replicated UI Layout:** Accurately mimics the original Red Bus homepage with banners, search boxes, and other essential elements.
 - **Clean & Modular Code:** Well-organized HTML and CSS for easy understanding and modification.
 - **Real-world Practice:** Gives hands-on experience with replicating modern website designs.
@@ -20,7 +19,7 @@ This project focuses on recreating the Red Bus website’s **homepage UI** to im
 ## 📂 Project Structure
 
 - **HTML5:** Used for structuring content such as forms, buttons, and navigation.
-- **CSS3:** Employed to style the page, focusing on layout, fonts, colors, and responsive behavior.
+- **CSS3:** Employed to style the page, focusing on layout, fonts, and colors.
   
 ## 📦 Installation
 
@@ -33,7 +32,7 @@ This project focuses on recreating the Red Bus website’s **homepage UI** to im
 ## 🛠️ Technologies Used
 
 - **HTML5** for semantic and structured content.
-- **CSS3** for responsive layout and styling.
+- **CSS3** for styling the page.
 
 ## 👨‍💻 Learning Outcomes
 
